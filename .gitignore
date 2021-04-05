@@ -1,0 +1,4 @@
+.pio/
+include/config.hh
+CMakeLists.txt
+sdkconfig
