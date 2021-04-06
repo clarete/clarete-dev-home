@@ -20,7 +20,6 @@
 #ifndef app_h
 #define app_h
 
-#include <map>
 #include <InfluxDbClient.h>
 
 class App {
