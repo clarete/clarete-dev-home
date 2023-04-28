@@ -1,0 +1,8 @@
+Flash the same environment in different devices:
+
+  THING=tempeh00 pio run -t upload -e tmp36gz
+  THING=tempeh01 pio run -t upload -e dht11
+
+Flash different environment:
+
+  THING=stemma00 pio run -t upload -e stemma
